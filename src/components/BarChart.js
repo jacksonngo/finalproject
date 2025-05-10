@@ -173,6 +173,4 @@ const RiskBarChart = ({ data }) => {
   );
 };
 
-export default RiskBarChart;
-
-
+export default RiskBarChart;           
